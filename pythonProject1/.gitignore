@@ -1,8 +1,5 @@
-.idea/ 
-*.db 
-__pycache__/ 
-venv/ 
-.venv/ 
-"../.idea/" 
-"../pythonProject/" 
-"../tennis_system.py.txt" 
+"__pycache__/" 
+"*.pyc" 
+"*.db" 
+"venv/" 
+".env" 
